@@ -9,6 +9,7 @@
     "lint": "biome check --apply ./"
   },
   "dependencies": {
+    "@t3-oss/env-nextjs": "0.9.1",
     "lucide-react": "^0.372.0",
     "next": "14.2.2",
     "react": "^18",
